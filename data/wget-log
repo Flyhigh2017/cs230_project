@@ -1,0 +1,101 @@
+--2018-02-08 02:36:10--  http://ladoga.graphics.cs.cmu.edu/xinleic/tf-faster-rcnn/res101/voc_0712_80k-110k.tgz
+Resolving ladoga.graphics.cs.cmu.edu... 128.2.220.68
+Connecting to ladoga.graphics.cs.cmu.edu|128.2.220.68|:80... connected.
+HTTP request sent, awaiting response... Read error (Operation timed out) in headers.
+Retrying.
+
+--2018-02-08 18:49:39--  (try: 2)  http://ladoga.graphics.cs.cmu.edu/xinleic/tf-faster-rcnn/res101/voc_0712_80k-110k.tgz
+Connecting to ladoga.graphics.cs.cmu.edu|128.2.220.68|:80... connected.
+HTTP request sent, awaiting response... Read error (Operation timed out) in headers.
+Retrying.
+
+--2018-02-08 18:51:18--  (try: 3)  http://ladoga.graphics.cs.cmu.edu/xinleic/tf-faster-rcnn/res101/voc_0712_80k-110k.tgz
+Connecting to ladoga.graphics.cs.cmu.edu|128.2.220.68|:80... connected.
+HTTP request sent, awaiting response... Read error (Operation timed out) in headers.
+Retrying.
+
+--2018-02-08 18:53:21--  (try: 4)  http://ladoga.graphics.cs.cmu.edu/xinleic/tf-faster-rcnn/res101/voc_0712_80k-110k.tgz
+Connecting to ladoga.graphics.cs.cmu.edu|128.2.220.68|:80... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2018-02-08 18:57:05--  (try: 5)  http://ladoga.graphics.cs.cmu.edu/xinleic/tf-faster-rcnn/res101/voc_0712_80k-110k.tgz
+Connecting to ladoga.graphics.cs.cmu.edu|128.2.220.68|:80... connected.
+HTTP request sent, awaiting response... Read error (Operation timed out) in headers.
+Retrying.
+
+--2018-02-08 18:59:30--  (try: 6)  http://ladoga.graphics.cs.cmu.edu/xinleic/tf-faster-rcnn/res101/voc_0712_80k-110k.tgz
+Connecting to ladoga.graphics.cs.cmu.edu|128.2.220.68|:80... connected.
+HTTP request sent, awaiting response... Read error (Operation timed out) in headers.
+Retrying.
+
+--2018-02-08 19:01:12--  (try: 7)  http://ladoga.graphics.cs.cmu.edu/xinleic/tf-faster-rcnn/res101/voc_0712_80k-110k.tgz
+Connecting to ladoga.graphics.cs.cmu.edu|128.2.220.68|:80... connected.
+HTTP request sent, awaiting response... Read error (Operation timed out) in headers.
+Retrying.
+
+--2018-02-08 19:02:58--  (try: 8)  http://ladoga.graphics.cs.cmu.edu/xinleic/tf-faster-rcnn/res101/voc_0712_80k-110k.tgz
+Connecting to ladoga.graphics.cs.cmu.edu|128.2.220.68|:80... connected.
+HTTP request sent, awaiting response... Read error (Operation timed out) in headers.
+Retrying.
+
+--2018-02-08 19:04:44--  (try: 9)  http://ladoga.graphics.cs.cmu.edu/xinleic/tf-faster-rcnn/res101/voc_0712_80k-110k.tgz
+Connecting to ladoga.graphics.cs.cmu.edu|128.2.220.68|:80... connected.
+HTTP request sent, awaiting response... Read error (Operation timed out) in headers.
+Retrying.
+
+--2018-02-08 19:06:29--  (try:10)  http://ladoga.graphics.cs.cmu.edu/xinleic/tf-faster-rcnn/res101/voc_0712_80k-110k.tgz
+Connecting to ladoga.graphics.cs.cmu.edu|128.2.220.68|:80... connected.
+HTTP request sent, awaiting response... Read error (Operation timed out) in headers.
+Retrying.
+
+--2018-02-08 19:08:16--  (try:11)  http://ladoga.graphics.cs.cmu.edu/xinleic/tf-faster-rcnn/res101/voc_0712_80k-110k.tgz
+Connecting to ladoga.graphics.cs.cmu.edu|128.2.220.68|:80... connected.
+HTTP request sent, awaiting response... Read error (Operation timed out) in headers.
+Retrying.
+
+--2018-02-08 19:10:04--  (try:12)  http://ladoga.graphics.cs.cmu.edu/xinleic/tf-faster-rcnn/res101/voc_0712_80k-110k.tgz
+Connecting to ladoga.graphics.cs.cmu.edu|128.2.220.68|:80... connected.
+HTTP request sent, awaiting response... Read error (Operation timed out) in headers.
+Retrying.
+
+--2018-02-08 19:12:40--  (try:13)  http://ladoga.graphics.cs.cmu.edu/xinleic/tf-faster-rcnn/res101/voc_0712_80k-110k.tgz
+Connecting to ladoga.graphics.cs.cmu.edu|128.2.220.68|:80... connected.
+HTTP request sent, awaiting response... Read error (Operation timed out) in headers.
+Retrying.
+
+--2018-02-08 19:14:27--  (try:14)  http://ladoga.graphics.cs.cmu.edu/xinleic/tf-faster-rcnn/res101/voc_0712_80k-110k.tgz
+Connecting to ladoga.graphics.cs.cmu.edu|128.2.220.68|:80... connected.
+HTTP request sent, awaiting response... Read error (Operation timed out) in headers.
+Retrying.
+
+--2018-02-08 19:16:14--  (try:15)  http://ladoga.graphics.cs.cmu.edu/xinleic/tf-faster-rcnn/res101/voc_0712_80k-110k.tgz
+Connecting to ladoga.graphics.cs.cmu.edu|128.2.220.68|:80... connected.
+HTTP request sent, awaiting response... Read error (Operation timed out) in headers.
+Retrying.
+
+--2018-02-08 19:18:21--  (try:16)  http://ladoga.graphics.cs.cmu.edu/xinleic/tf-faster-rcnn/res101/voc_0712_80k-110k.tgz
+Connecting to ladoga.graphics.cs.cmu.edu|128.2.220.68|:80... connected.
+HTTP request sent, awaiting response... Read error (Operation timed out) in headers.
+Retrying.
+
+--2018-02-08 19:20:10--  (try:17)  http://ladoga.graphics.cs.cmu.edu/xinleic/tf-faster-rcnn/res101/voc_0712_80k-110k.tgz
+Connecting to ladoga.graphics.cs.cmu.edu|128.2.220.68|:80... connected.
+HTTP request sent, awaiting response... Read error (Operation timed out) in headers.
+Retrying.
+
+--2018-02-08 19:21:57--  (try:18)  http://ladoga.graphics.cs.cmu.edu/xinleic/tf-faster-rcnn/res101/voc_0712_80k-110k.tgz
+Connecting to ladoga.graphics.cs.cmu.edu|128.2.220.68|:80... connected.
+HTTP request sent, awaiting response... Read error (Operation timed out) in headers.
+Retrying.
+
+--2018-02-08 19:23:45--  (try:19)  http://ladoga.graphics.cs.cmu.edu/xinleic/tf-faster-rcnn/res101/voc_0712_80k-110k.tgz
+Connecting to ladoga.graphics.cs.cmu.edu|128.2.220.68|:80... connected.
+HTTP request sent, awaiting response... Read error (Operation timed out) in headers.
+Retrying.
+
+--2018-02-08 19:25:32--  (try:20)  http://ladoga.graphics.cs.cmu.edu/xinleic/tf-faster-rcnn/res101/voc_0712_80k-110k.tgz
+Connecting to ladoga.graphics.cs.cmu.edu|128.2.220.68|:80... connected.
+HTTP request sent, awaiting response... Read error (Operation timed out) in headers.
+Giving up.
+
